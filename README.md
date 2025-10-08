@@ -1,0 +1,2 @@
+# STUDI
+All student platform
